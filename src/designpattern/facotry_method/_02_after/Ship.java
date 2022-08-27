@@ -1,5 +1,9 @@
 package src.designpattern.facotry_method._02_after;
 
+import src.designpattern.abstract_factory._01_before.WhiteWheel;
+import src.designpattern.abstract_factory._02_after.Anchor;
+import src.designpattern.abstract_factory._02_after.Wheel;
+
 public class Ship {
 
 	private String name;
